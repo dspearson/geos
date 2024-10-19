@@ -28,6 +28,7 @@
 #include <vector>
 #include <array>
 #include <string>
+#include <cstdint>
 
 #ifdef _MSC_VER
 #pragma warning(push)
